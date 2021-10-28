@@ -1,0 +1,7 @@
+#posso iguinorar um arquivo especifico
+#doc.lib
+#posso iguinorar um conjunto de arquivos
+#*.lib
+
+# posso ignorar uma pasta inteira
+biblioteca/
